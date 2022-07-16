@@ -72,7 +72,7 @@ export default {
           { value: '3' }
         ]
       },
-      treeConfig: { nodeWidth: 120, nodeHeight: 80, levelHeight: 200 }
+      treeConfig: { nodeWidth: 180, nodeHeight: 80, levelHeight: 200 }
     }
   }
 }

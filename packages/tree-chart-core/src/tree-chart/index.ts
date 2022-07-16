@@ -28,7 +28,7 @@ export default class TreeChartCore {
     nodeHeight: DEFAULT_NODE_HEIGHT,
     levelHeight: DEFAULT_LEVEL_HEIGHT,
   };
-  linkStyle: TreeLinkStyle = TreeLinkStyle.CURVE;
+  linkStyle: TreeLinkStyle = TreeLinkStyle.STRAIGHT;
   direction: Direction = Direction.VERTICAL;
   collapseEnabled: boolean = true
 
